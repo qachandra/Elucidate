@@ -5,9 +5,9 @@ Please download Java and Maven
 
 
 # Java JDK 1.8
-#Maven:
+# Maven:
 https://maven.apache.org/download.cgi
 
 
-#Set Java and Maven path variable to Bin  Folders.
+# Set Java and Maven path variable to Bin  Folders.
 
